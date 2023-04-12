@@ -1,0 +1,9 @@
+[mastodon]
+api_base_url = https://YOUR_MASTODON_INSTANCE.com
+client_secret = YOUR_CLIENT_SECRET
+login = ACCOUNT_LOGIN_EMAIL
+password = ACCOUNT_LOGIN_PASSWORD
+
+[folders]
+this_folder = /Path/To/Folder/With/Correct/Subfolders
+# Should contain folders "Errors", "Files" and "UsedFiles"
